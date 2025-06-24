@@ -57,5 +57,12 @@ This project presents a hands-free computer control system that combines **real-
 
 ## 🧪 Installation & Usage
 
+- Create a virtual environment
+- Activate Virtual Environment
 - Install the requirements.txt file
-- pip install requirements.txt
+
+Commands: 
+py -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+py index.py
